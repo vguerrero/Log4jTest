@@ -11,7 +11,7 @@ public class App
 static final Logger logger = Logger.getLogger(App.class);
     public static void main( String[] args )
     {
-			PropertyConfigurator.configure("log4j.properties");
+		PropertyConfigurator.configure("log4j.properties");
 
 		logger.debug("Sample debug message");
 

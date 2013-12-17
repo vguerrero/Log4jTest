@@ -7,3 +7,6 @@
 2013-11-08 14:56:54,664 [org.vmgs.corp.App.main()] WARN  org.vmgs.corp.App - Sample warn message
 2013-11-08 14:56:54,664 [org.vmgs.corp.App.main()] ERROR org.vmgs.corp.App - Sample error message
 2013-11-08 14:56:54,665 [org.vmgs.corp.App.main()] FATAL org.vmgs.corp.App - Sample fatal message
+2013-11-26 10:53:22,338 [org.vmgs.corp.App.main()] WARN  org.vmgs.corp.App - Sample warn message
+2013-11-26 10:53:22,339 [org.vmgs.corp.App.main()] ERROR org.vmgs.corp.App - Sample error message
+2013-11-26 10:53:22,339 [org.vmgs.corp.App.main()] FATAL org.vmgs.corp.App - Sample fatal message
